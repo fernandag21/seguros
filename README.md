@@ -1,2 +1,3 @@
-# seguros
-Ejercicio datacamp
+# Proyecto Seguros
+
+Este repositorio será usado para practicar el laboratorio de MLOps.
